@@ -32,6 +32,10 @@
 				"Android",
 				"VisionOS"
 			]
+		},
+		{
+			"Name": "FunctionalTestingEditor",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
