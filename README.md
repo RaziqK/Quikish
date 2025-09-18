@@ -1,6 +1,6 @@
 # Quikish
 
-A VR turn-based game created using Unreal Engine 5.5.4 and tested with the **Valve Index**.
+A VR turn-based game created using Unreal Engine 5.5.4 and tested with the Valve Index.
 
 ---
 
@@ -18,8 +18,13 @@ To view or modify the source code, you will need:
 ---
 
 ## Source Code
-The source code is hosted on GitHub.  
+The source code is hosted on GitHub.
 
 Clone the repository:
 ```bash
 git clone https://github.com/RaziqK/Quikish.git
+```
+
+## Gameplay Video
+A full twenty minute gameplay video is located here as Github does not allow files over 100MB:
+https://drive.google.com/file/d/1X4lQItp0uuK6LF4X7m_meAT8bO74llco/view?usp=sharing
